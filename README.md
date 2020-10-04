@@ -20,8 +20,8 @@ This forked repo will tell you how to make your own system installer, even if I 
   ![image-20201004200502770](assets/image-20201004200502770.png)
 
   The question is the downloading url of your system. I tell you, go "https://github.com/EXALAB/Anlinux-Resources/tree/master/Rootfs" and replace the url.
-
-
+  
+  You can also use Linux Deploy's repos: https://github.com/istomyang/Linux-Deploy-Respository/releases
 
 # References
 
